@@ -9,4 +9,4 @@ const segundoNum = 2;
 /*const operacaoMat = primeiroNum / segundoNum;*/
 const operacaoMat = primeiroNum - segundoNum;
 
-console.log(operacaoMat)
+console.log(operacaoMat) 
