@@ -9,4 +9,4 @@ const fala = '"Nunca mais!".'
 //concatenção (+)
 console.log(citacao + fala)
 
-//template string OU tamplate simple
+//template string OU tamplate simple 
